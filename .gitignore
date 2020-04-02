@@ -1,3 +1,7 @@
+# === vscode === #
+.vscode/
+
+# === Original === #
 __pycache__
 env
 htmlcov
